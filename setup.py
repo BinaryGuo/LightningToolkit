@@ -3,7 +3,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     description = fh.read()
 setup(
 name = "lightningtoolkit",
-version = "1.0.2",
+version = "1.0.3",
 author = "GQX",
 author_email = "kill114514251@outlook.com",
 packages = find_packages(),
