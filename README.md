@@ -9,7 +9,7 @@
 - Contact email (GQX): kill114514251@outlook.com
 - TestPyPI: Same name
 ## Version
-- 1.0.0
+- 1.0.4
 ### Development environment
 - Ubuntu Linux 22.04
 - Python 3.10.12
@@ -53,7 +53,7 @@ Start IDLE
 - testPyPI：同名
 
 ## 版本
-- 1.0.0
+- 1.0.4
 
 ### 开发环境
 - Ubuntu Linux 22.04

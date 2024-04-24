@@ -1,1 +1,1 @@
-print("LightningToolkit(1.0.0)")
+print("LightningToolkit(1.0.4)")

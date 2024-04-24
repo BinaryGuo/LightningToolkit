@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: lightningtoolkit
-Version: 1.0.3
+Version: 1.0.4
 Summary: A toolkit that combines many functions
 Home-page: https://github.com/BinaryGuo/Lightning_Toolkit
 Author: GQX
@@ -39,7 +39,7 @@ License-File: LICENSE
 - Contact email (GQX): kill114514251@outlook.com
 - TestPyPI: Same name
 ## Version
-- 1.0.0
+- 1.0.4
 ### Development environment
 - Ubuntu Linux 22.04
 - Python 3.10.12
@@ -83,7 +83,7 @@ Start IDLE
 - testPyPI：同名
 
 ## 版本
-- 1.0.0
+- 1.0.4
 
 ### 开发环境
 - Ubuntu Linux 22.04
