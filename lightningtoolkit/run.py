@@ -2,7 +2,6 @@ import math,random
 from time import sleep
 months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 day_ending = ['st','nd','rd'] + 17* ['th'] + ['st','nd','rd'] + 8* ['th']
-database = [['xyl','1038'],['SU','20121129'],['yzb','2835'],['wyj','3458'],['yjy','5849'],['gjm','5482']]
 chancer = 1
 chance = 3
 chancers = 10 
@@ -180,5 +179,3 @@ def calculator() :
 def run():
     logo()
     while True:judge()
-
-run()
