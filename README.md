@@ -9,7 +9,7 @@
 - Contact email (GQX): kill114514251@outlook.com
 - TestPyPI: Same name
 ## Version
-- 1.0.4
+- 1.1.1
 ### Development environment
 - Ubuntu Linux 22.04
 - Python 3.10.12
@@ -48,12 +48,12 @@ Start IDLE
 ### 项目说明
 - 此项目是一个工具包
 - github：https://github.com/BinaryGuo/Lightning_Toolkit/
-- 问题反馈：https://github.com/BinaryGuo/Lightning_Toolkit/issues
+- 问题反馈：https://github.com/BinaryGuo/Lightning_Toolkit/issues/
 - 联系邮箱（GQX）：kill114514251@outlook.com
 - testPyPI：同名
 
 ## 版本
-- 1.0.4
+- 1.1.1
 
 ### 开发环境
 - Ubuntu Linux 22.04
